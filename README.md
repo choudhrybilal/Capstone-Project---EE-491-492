@@ -8,7 +8,7 @@ Supervisor:
 Dr. Moiz Anis
 
 Team: 
-Choudhry Bilal Mazhar - cm00326 
-Khubaib Ahmed Hingol - kh01938
-Muhammad Salman Abbasi - ma01912
+Choudhry Bilal Mazhar (cm00326),  
+Khubaib Ahmed Hingol (kh01938) &
+Muhammad Salman Abbasi (ma01912)
 
